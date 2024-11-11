@@ -1,0 +1,50 @@
+##Exercise 1
+
+
+Create a Personal Introduction Page
+Create an HTML document that serves as a simple personal introduction page. The page should include:
+
+Basic Structure:
+
+Ensure the document has the <!DOCTYPE html> declaration and uses lang="en" in the <html> tag.
+Include a <head> section with a <title> tag that reads "My Introduction" and a <meta charset="UTF-8">.
+Content in the <body>:
+
+An <h1> heading with your full name.
+A paragraph (<p>) introducing yourself, your interests, and a fun fact.
+Use a <br> tag in the paragraph to separate two sentences.
+A second paragraph with some bold text (<b>) that emphasizes your favorite hobby or passion.
+A link (<a> tag) to a website or resource you find interesting (e.g., your favorite blog or a learning platform).
+Additional Elements:
+
+Create an unordered list (<ul>) that lists three of your favorite activities.
+Add an image (<img>) that represents one of your hobbies. Ensure it has an appropriate alt description.
+
+
+
+
+##Exercise 2 
+
+
+Create a Simple Article Page
+Create an HTML document that represents a simple article page. The page should include:
+
+Basic Structure:
+
+Use the <!DOCTYPE html> declaration and set the lang="en" attribute in the <html> tag.
+Include a <head> section with a <title> tag that reads "My First Article" and a <meta charset="UTF-8"> tag.
+Content in the <body>:
+
+An <h1> heading for the title of the article (e.g., "The Beauty of Nature").
+A section with an <h2> subheading (e.g., "Introduction") followed by a paragraph (<p>) introducing the topic.
+A second subheading (<h2>) labeled "Main Content" with:
+A paragraph (<p>) discussing the topic in more detail, using the <b> tag to emphasize at least one word or phrase.
+A line break (<br>) within the paragraph to separate two main ideas.
+Lists:
+
+Create an unordered list (<ul>) that highlights three key points or interesting facts related to the article's topic.
+Add an ordered list (<ol>) that outlines the steps to further explore the topic.
+Image and Links:
+
+Insert an image (<img>) that complements the article. Ensure it has an alt description that accurately describes the image.
+Include a link (<a> tag) at the end of the article that points to a related resource or website for further reading (e.g., "Learn more about nature here").
