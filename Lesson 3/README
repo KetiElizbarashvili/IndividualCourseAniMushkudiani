@@ -1,0 +1,24 @@
+Exercise: Build a Simple Portfolio Page
+Objective:
+Create a basic portfolio page using HTML and CSS to showcase your personal profile and skills.
+
+Requirements:
+Structure the Page (HTML):
+
+Use semantic HTML tags like <header>, <section>, and <footer>.
+Include the following sections:
+Header:
+A title (<h1>) with your name or "My Portfolio."
+A navigation bar (<nav>) with links to "Home," "About," and "Contact."
+About Section:
+A heading (<h2>) and a short paragraph (<p>) describing yourself.
+Skills Section:
+A heading (<h2>) and an unordered list (<ul>) of at least 3 skills.
+Contact Form:
+A form (<form>) with:
+Name field (<input type="text">).
+Email field (<input type="email">).
+A message field (<textarea>).
+A submit button (<button>).
+Footer:
+Add a footer with a copyright message.
