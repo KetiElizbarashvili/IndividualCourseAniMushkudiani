@@ -1,0 +1,26 @@
+/* Universal Selector * */
+
+ * {
+    display: flex;
+    justify-content: baseline;
+}
+
+/* Element Selector p, h1  */
+p {
+    color: black;
+}
+
+/* ID Selector #id  */
+
+
+
+Class Selector .class
+
+.chvenidarkmeulisaxeli{
+    background-color: aliceblue;
+}
+
+
+div p {
+    color: aliceblue;
+}
